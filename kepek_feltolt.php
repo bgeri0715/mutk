@@ -163,11 +163,12 @@
 
 	      	<div class="col-two tab-1-3 mob-1-2 social-links">
 
-	      		<h4>Közösségi oldal</h4>
+            <h4>Linkek</h4>
 
-	      		<ul>
-						<li><a href="https://www.facebook.com/home.php#!/pages/MÚTK-Martfűi-Úszó-és-Triatlon-Klub/106474766101055">Facebook</a></li>
-					</ul>
+            <ul>
+            <li><a href="https://www.facebook.com/home.php#!/pages/MÚTK-Martfűi-Úszó-és-Triatlon-Klub/106474766101055">Facebook</a></li>
+            <li><a href="http://www.mutk.hu">Választott szervezet webcíme</a>
+            </ul>
 
 	      	</div> <!-- end social links -->
 
